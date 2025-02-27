@@ -4,7 +4,7 @@ package academy.devdojo.maratonajava.introduction;
  * Isso é um comentário <b>javadoc</b>
  */
 
-public class Main {
+public class Aula1Main {
     public static void main(String[] args)
     {
         // comentario 1 linha
