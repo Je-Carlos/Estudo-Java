@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Estruturas Condicionais.md",
+                "file": "7. Arrays.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Estruturas Condicionais"
+              "title": "7. Arrays"
             }
           }
         ]
@@ -167,11 +167,11 @@
   },
   "active": "54308c546eee3c5d",
   "lastOpenFiles": [
+    "5. Estruturas Condicionais.md",
     "4. Operadores.md",
     "3. Tipos Primitivos.md",
     "2. Comentários.md",
     "1. Como java funciona.md",
-    "5. Estruturas Condicionais.md",
     "Tipos primitivos.md",
     "Pasted image 20250304142926.png",
     "Pasted image 20250227200639.png",

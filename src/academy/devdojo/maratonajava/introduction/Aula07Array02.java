@@ -7,10 +7,15 @@ public class Aula07Array02 {
         // char = '\u0000' ''
         // boolean = false
         // String = null
-        String[] nomes = new String[3];
-        System.out.println(nomes[0]);
-        System.out.println(nomes[1]);
-        System.out.println(nomes[2]);
+        String[] nomes = new String[4];
+        nomes[0] = "Goku";
+        nomes[1] = "Kurosaki";
+        nomes[2] = "Luffy";
+        nomes[3] = "Kurapika";
+        for (int i = 0; i < nomes.length; i++) {
+            System.out.println(nomes[i]);
+        }
+
 
     }
 }
