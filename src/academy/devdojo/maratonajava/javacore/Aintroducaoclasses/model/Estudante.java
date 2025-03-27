@@ -1,4 +1,4 @@
-package academy.devdojo.maratonajava.javacore.introducaoclasses.model;
+package academy.devdojo.maratonajava.javacore.Aintroducaoclasses.model;
 
 public class Estudante {
     public String nome;
