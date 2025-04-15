@@ -2,13 +2,16 @@ package academy.devdojo.maratonajava.javacore.Bintroducaometodos.test;
 
 import academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.Calculadora;
 
-public class CalculadoraTest03 {
+public class CalculadoraTest04 {
     public static void main(String[] args) {
         Calculadora calculadora = new Calculadora();
 
-        double resultado = calculadora.divideDoisNumeros(20, 2);
-        System.out.println(resultado);
-        System.out.println("------------");
-        calculadora.imprimeDivisao(86, 0);
+        int num1 = 1;
+        int num2 = 2;
+
+        calculadora.alteraDoisNumeros(num1, num2);
+        System.out.println(num1);
+        System.out.println(num2);
+
     }
 }
