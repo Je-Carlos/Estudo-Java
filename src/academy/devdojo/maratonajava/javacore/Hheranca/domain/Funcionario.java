@@ -11,6 +11,9 @@ public class Funcionario extends Pessoa {
         return salario;
     }
 
+    public void relatorioPagamento(){
+        System.out.println("Eu " + this.nome + " recebi um salário de "+ this.salario);
+    }
     public void setSalario(double salario) {
         this.salario = salario;
     }
