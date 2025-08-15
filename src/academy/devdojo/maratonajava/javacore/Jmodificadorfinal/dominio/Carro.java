@@ -12,5 +12,8 @@ public class Carro {
         this.nome = nome;
     }
 
+    public final void imprime(){
+        System.out.println(this.nome);
+    };
 
 }
