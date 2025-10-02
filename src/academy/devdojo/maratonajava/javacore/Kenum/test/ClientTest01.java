@@ -1,7 +1,7 @@
 package academy.devdojo.maratonajava.javacore.Kenum.test;
 
 import academy.devdojo.maratonajava.javacore.Kenum.dominio.Cliente;
-import academy.devdojo.maratonajava.javacore.Kenum.dominio.Cliente.TipoPagamento;
+import academy.devdojo.maratonajava.javacore.Kenum.dominio.TipoPagamento;
 import academy.devdojo.maratonajava.javacore.Kenum.dominio.TipoCliente;
 
 public class ClientTest01 {
@@ -11,5 +11,8 @@ public class ClientTest01 {
 
         System.out.println(cliente1);
         System.out.println(cliente4);
+
+        System.out.println(TipoPagamento.DEBITO.calcDesconto(100));
+        System.out.println(TipoPagamento.CREDITO.calcDesconto(100));
     }
 }
