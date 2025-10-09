@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16. Interfaces.md",
+                "file": "17. Polimorfismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Interfaces"
+              "title": "17. Polimorfismo"
             }
           }
         ]
@@ -167,10 +167,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "56e1ddc6359c993d",
+  "active": "0a45e2e93857312f",
   "lastOpenFiles": [
-    "15. Classes Abstratas.md",
+    "imgs/Pasted image 20251009191801.png",
     "16. Interfaces.md",
+    "17. Polimorfismo.md",
+    "15. Classes Abstratas.md",
     "6. Estruturas de Repetição.md",
     "4. Operadores.md",
     "14. Enumeração.md",

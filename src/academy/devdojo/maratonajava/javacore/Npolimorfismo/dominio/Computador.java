@@ -6,9 +6,11 @@ public class Computador extends Product{
         super(nome, valor);
     }
 
+
     @Override
     public double calcImposto() {
         System.out.println("Imposto sobre o produto: ");
         return this.valor * IMPOSTO;
     }
+
 }
