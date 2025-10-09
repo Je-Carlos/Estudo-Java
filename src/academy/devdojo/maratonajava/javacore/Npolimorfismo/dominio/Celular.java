@@ -9,7 +9,6 @@ public class Celular extends Product {
 
     @Override
     public double calcImposto() {
-        System.out.println("Imposto sobre o produto: ");
         return this.valor * IMPOSTO;
     }
 
