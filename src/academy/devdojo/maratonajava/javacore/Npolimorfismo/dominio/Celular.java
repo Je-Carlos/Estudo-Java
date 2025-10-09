@@ -2,7 +2,7 @@ package academy.devdojo.maratonajava.javacore.Npolimorfismo.dominio;
 
 public class Celular extends Product {
     public static final double IMPOSTO = 0.36;
-    private int fabricacao;
+    private String fabricacao;
     public Celular(String nome, double valor) {
         super(nome, valor);
     }
@@ -12,11 +12,11 @@ public class Celular extends Product {
         return this.valor * IMPOSTO;
     }
 
-    public int getFabricacao() {
+    public String getFabricacao() {
         return fabricacao;
     }
 
-    public void setFabricacao(int fabricacao) {
+    public void setFabricacao(String fabricacao) {
         this.fabricacao = fabricacao;
     }
 }
