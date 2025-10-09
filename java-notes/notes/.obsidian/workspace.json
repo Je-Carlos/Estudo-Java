@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17. Polimorfismo.md",
+                "file": "18. Exceções.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Polimorfismo"
+              "title": "18. Exceções"
             }
           }
         ]
@@ -167,11 +167,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0a45e2e93857312f",
+  "active": "56e1ddc6359c993d",
   "lastOpenFiles": [
+    "imgs/Pasted image 20251009204850.png",
+    "imgs/Pasted image 20251009203656.png",
+    "17. Polimorfismo.md",
+    "18. Exceções.md",
     "imgs/Pasted image 20251009191801.png",
     "16. Interfaces.md",
-    "17. Polimorfismo.md",
     "15. Classes Abstratas.md",
     "6. Estruturas de Repetição.md",
     "4. Operadores.md",
