@@ -7,5 +7,6 @@ Os estudos foram feitos acompanhando o curso de Java do professor William Suane,
 ## Estudos
 
 - [Notas de estudo](java-notes/notes/)
+- [Exercícios](src/academy/devdojo/maratonajava/exercises)
 - [Introdução aos conceitos de Java](src/academy/devdojo/maratonajava/introduction/)
 - [Orientação a Objetos](src/academy/devdojo/maratonajava/javacore/)
